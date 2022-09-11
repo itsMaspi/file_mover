@@ -1,0 +1,6 @@
+put here a list of filenames that you don't want to move into a subfolder
+you can add as many lines as you want
+each line is a file
+put them like this line below
+test.pdf
+feel free to erase all these lines and write only the filenames
